@@ -41,7 +41,7 @@ The application crashes because `InteractsWithSchemas::cacheSchema` attempts to 
 
 ### Reproduction Repository
 
-[https://github.com/<your-username>/filament-chart-filter-issue](https://github.com/<your-username>/filament-chart-filter-issue)
+[https://github.com/mmuqiitf/filament-chart-filter-issue](https://github.com/mmuqiitf/filament-chart-filter-issue)
 _(Note: Please replace the link above with your actual repository URL after pushing)_
 
 ### Technical Analysis & Suggested Fix
